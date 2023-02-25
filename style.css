@@ -1,0 +1,7 @@
+#parent {
+    background-color: yellow;
+}
+
+#block:not(.active) {
+    display: none;
+}
